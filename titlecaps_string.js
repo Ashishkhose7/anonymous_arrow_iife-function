@@ -1,6 +1,6 @@
 
 
-/* 
+
 < anonymous function >
   let x=function(array){
            let abc = array.filter(function(array){
@@ -37,4 +37,3 @@ let x=((array)=>{
 )
 console.log(abc)
 })(array)
-*/
