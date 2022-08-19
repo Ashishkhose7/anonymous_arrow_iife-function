@@ -3,7 +3,7 @@
 
 let array =[1,2,3,4,5,6,7,8,9,10]
 
-/* 
+
 < anonymous function >
 let x=function (array){  
       let array2=array.filter((z)=>{
@@ -32,6 +32,5 @@ let x=((x)=>{
          console.log(array2)
    }
 )(array)
-*/
 
 
