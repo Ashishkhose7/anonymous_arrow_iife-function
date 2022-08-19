@@ -1,6 +1,6 @@
 //Q.7>> Remove dublicates from array
 
-/*
+
   let array =[1,2,3,2,1,3]
 
   <anonymous function>
@@ -26,4 +26,3 @@
         let filteredArray = array.filter((item,index) => array.indexOf(item) === index);
       console.log(filteredArray)
     })(array)
-*/
