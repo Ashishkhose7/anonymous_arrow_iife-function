@@ -1,0 +1,12 @@
+Javascript Functions
+
+Do operations using Anonymous, Arrow and IIFE functions
+
+1.print odd numbers in an array
+2.Convert all strings to title caps in string array
+3.sum of all numbers in an array
+4.return all prime numbers in an array
+5.return all plindromes in an array
+6.retun median of two sorted array of same size
+7.remove duplicates from array
+8.rotate an array by k times
