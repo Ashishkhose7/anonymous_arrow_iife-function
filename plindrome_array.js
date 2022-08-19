@@ -1,6 +1,6 @@
 //Q.5>> Return all plindrome in an array
 
-/* 
+
 <iife function>
 (()=>{
     let str=["html","css","java","sql"]
@@ -33,4 +33,4 @@ let x=function()=>{
   return str
   }
   console.log(x())  
-  */
+  
