@@ -1,6 +1,6 @@
 //Q.8>> Rotate array by k times // right to left shift
 
-/*
+
     let arr1 = [1,2,3,4,5]
     let arr2 = [1,2,3,4,5]
     let k=2
@@ -34,4 +34,3 @@
             console.log(array)
         })(array,k)
 
-*/
